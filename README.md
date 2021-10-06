@@ -45,5 +45,32 @@ Update on April 20, 2021: Thanks to the Team at ISIBang, I was able to get the h
 
 ### Statewise charts are available in python notebook.
 
+# Covid 19 vaccination Analysis(vaccination data upto 8/8/21)
+
+![image](https://user-images.githubusercontent.com/32152529/136200209-0917dc03-aebb-4ae8-9648-c8d7c7828dad.png)
+
+![image](https://user-images.githubusercontent.com/32152529/136200241-7b08d1dc-778d-41f1-bbef-6a201718529b.png)
+
+### Total Doses Administered Statewise
+![image](https://user-images.githubusercontent.com/32152529/136200292-8435d53c-b28b-4de9-a099-ca12f0a01d53.png)
+
+### Second Dose Administered Statewise
+![image](https://user-images.githubusercontent.com/32152529/136200613-2ac65ab8-3aa2-4de5-b51c-077d19569a0e.png)
+
+![image](https://user-images.githubusercontent.com/32152529/136200878-471cad03-6eee-4609-901e-819cf156e254.png)
+
+### Vaccine Type
+![image](https://user-images.githubusercontent.com/32152529/136200966-df1e9274-1667-4bb7-b183-595922481261.png)
+
+### By Age Group
+![image](https://user-images.githubusercontent.com/32152529/136201008-2fdc639c-43e1-4791-8820-315e7cd5a618.png)
+![image](https://user-images.githubusercontent.com/32152529/136201102-9fdb42e8-2665-462f-82cd-cb8d3240e703.png)
+
+### By Gender
+![image](https://user-images.githubusercontent.com/32152529/136201180-a035167c-2cb4-4f3b-bd41-ccdd35910aa3.png)
+
+
+
+
 
 
