@@ -16,3 +16,8 @@ Update on April 20, 2021: Thanks to the Team at ISIBang, I was able to get the h
 1. COVID-19 cases at daily level is present in covid_19_india.csv file
 2. Statewise testing details in StatewiseTestingDetails.csv file
 3. Vaccination details
+
+## Covid Testing data analysis
+
+![image](https://user-images.githubusercontent.com/32152529/136197310-0f8748c4-e6f5-4676-b6ff-d12b2180665b.png)
+
