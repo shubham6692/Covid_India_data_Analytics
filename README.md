@@ -21,3 +21,16 @@ Update on April 20, 2021: Thanks to the Team at ISIBang, I was able to get the h
 
 ![image](https://user-images.githubusercontent.com/32152529/136197310-0f8748c4-e6f5-4676-b6ff-d12b2180665b.png)
 
+## Covid Casualty by state
+
+![image](https://user-images.githubusercontent.com/32152529/136198942-97e277ae-32d5-4756-ad14-060ce89233e5.png)
+
+![image](https://user-images.githubusercontent.com/32152529/136199012-a87490d8-74c7-4550-b9af-ddec50f67146.png)
+
+![image](https://user-images.githubusercontent.com/32152529/136199046-4ba0fe38-b247-41b4-bc67-2f41569abb9f.png)
+
+![image](https://user-images.githubusercontent.com/32152529/136199147-cf66d740-21d8-40fc-a190-e9eb18bd6a25.png)
+
+
+
+
